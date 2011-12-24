@@ -1,0 +1,9 @@
+## Trinomial Factor-er ##
+
+#### This is a program written in C++ and the Qt library.
+
+To compile it's simply:
+
+	$qmake
+	$make
+	$./mathapp
